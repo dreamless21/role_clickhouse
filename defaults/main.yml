@@ -13,7 +13,7 @@ clickhouse_deb_rep_key: E0C56BD4
 
 clickhouse_max_connections: 4096
 clickhouse_keep_alive_timeout: 3
-clickhouse_max_concurrent_queries: 120
+clickhouse_max_concurrent_queries: 100
 
 clickhouse_mlock_executable: true
 clickhouse_max_server_memory_usage: 0
